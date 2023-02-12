@@ -1,0 +1,44 @@
+.container{
+ justify-content: center;
+ display: flex;
+ box-shadow: 4px 4px 30px;
+ width: 400px;
+ height:500px ;
+ 
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+input[ type=button   ]
+{  
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+    border: 3px solid black;
+}
+
+
+input[type=text]{ 
+width: 200px
+
+}
+
+
+
+
+
+
+
+
+
+
